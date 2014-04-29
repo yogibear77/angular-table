@@ -1,0 +1,1 @@
+module.exports = '  <tbody>\n    <tr ng-repeat="row in rows">\n      <td>{{row.name}}</td>\n      <td><button ng-click="editClick()"  type="button" class="btn btn-sm btn-primary">edit</button></td>\n      <td><button ng-click="deleteClick()" type="button" class="btn btn-sm btn-warning">delete</button></td>\n    </tr>\n  </tbody>\n\n';

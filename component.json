@@ -1,0 +1,23 @@
+{
+  "name": "stable",
+  "repo": "yogibear77/stable",
+  "description": "Angular JS directive for simple table body",
+  "version": "0.0.1",
+  "keywords": [
+    "bootstrap",
+    "table"
+  ],
+  "dependencies": {
+    
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "template.js"
+   ],
+  "remotes":[
+    "https://raw.githubusercontent.com"
+  ]
+}
